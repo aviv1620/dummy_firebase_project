@@ -1,0 +1,2 @@
+# MyJavaApplication
+ dummy firebase project
